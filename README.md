@@ -37,11 +37,8 @@ The notebook includes the following steps:
 - Feature Engineering
 - Python for Data Analysis
 
-## How to Run
-1. Download `Online Retail.xlsx` from the UCI repository  
-2. Place the dataset file in the same folder as the notebook  
-3. Open Jupyter Notebook  
-4. Run the notebook cells from top to bottom
+## Playbook
+- Includes a playbook of actionable recommendations
 
 ## Notes
 This project was completed for practice and learning purposes to strengthen applied data science skills.
