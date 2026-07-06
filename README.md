@@ -37,8 +37,8 @@ The notebook includes the following steps:
 - Feature Engineering
 - Python for Data Analysis
 
-## Playbook
-- Includes a playbook of actionable recommendations
+## Marketing Playbook
+- Includes a customer segmentation playbook of actionable recommendations
 
 ## Notes
 This project was completed for practice and learning purposes to strengthen applied data science skills.
