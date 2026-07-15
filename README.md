@@ -50,35 +50,37 @@ VIP loyalty tier or exclusive rewards
 Referral program — these customers will convert their network
 Solicit reviews and UGC
 
-⚠️ At-Risk / Lapsed
-Who they are: Were good customers but haven't purchased in a while.
-Goal: Win them back before they're gone for good.
+⭐ Loyal / Regulars
+Who they are: Recent, moderately frequent buyers with solid spend — not top-tier, but consistent.
+Goal: Nurture toward Champions status; reward consistency without over-discounting.
 
 Tactics:
-Win-back email sequence: "We miss you" + time-limited offer
-Show them what's new since their last purchase (dynamic product feed)
-Survey: Why did you stop? (Insight + re-engagement in one)
-Paid retargeting if email engagement drops
+- Frequency-building incentive: "buy again within 30 days" nudge rather than a broad discount — reward the behavior you want more of, not just the purchase.
+- Bundle or cross-sell recommendations based on first/most recent purchase category, aimed at raising AOV per visit.
+- Progress-based loyalty messaging ("you're 2 purchases away from VIP") if you have or plan a tier system — gives them a visible path to Champions.
+- Segment out of blanket win-back or reactivation email flows — they don't need to be won back, and treating them like a lapsed customer risks training them to expect discounts they don't need to be incentivized with.
 
 🌱 Promising / New
 Who they are: Recent first-time or early buyers with growth potential.
 Goal: Convert into repeat buyers fast — the first 90 days are critical.
 
 Tactics:
-Onboarding email series focused on product education
-Second-purchase incentive (small discount or free shipping threshold)
-Cross-sell based on first purchase category
-Social proof: reviews, bestsellers in their category
+- Onboarding email series focused on product education
+- Second-purchase incentive (small discount or free shipping threshold)
+- Cross-sell based on first purchase category
+- Social proof: reviews, bestsellers in their category
 
 💤 Hibernating
 Who they are: Haven't bought in a long time, low frequency, low spend.
 Goal: Either reactivate cheaply or suppress from paid campaigns to protect ROAS.
 
 Tactics:
-One last aggressive win-back attempt (deep discount or bundle)
-If no response: move to suppression list for paid ads
-Low-cost email only — don't waste paid budget here
-Consider a sunset flow: unsubscribe the truly gone ones to protect deliverability
+- One last aggressive win-back attempt (deep discount or bundle)
+- If no response: move to suppression list for paid ads
+- Low-cost email only — don't waste paid budget here
+- Consider a sunset flow: unsubscribe the truly gone ones to protect deliverability
+
+Layer on predictive modeling: A model that predicts each customer's future value based on their early buying behavior — how often they buy, how long they've been a customer, and what they typically spend — rather than just looking at their purchase history so far. This would flag customers on track to become Champions before they've racked up enough purchases to show up as one in the RFM data, so VIP treatment can start early instead of waiting for the numbers to catch up.
 
 ## Notes
 This project was completed for practice and learning purposes to strengthen applied data science skills.
