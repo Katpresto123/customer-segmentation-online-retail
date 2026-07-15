@@ -60,7 +60,7 @@ Tactics:
 - Frequency-building incentive: "buy again within 30 days" nudge rather than a broad discount
 - Bundle or cross-sell recommendations based on first/most recent purchase category
 - Progress-based loyalty messaging ("you're 2 purchases away from VIP")
-- Segment out of blanket win-back or reactivation email flows
+- Solicit a review or light UGC ask after their 3rd–4th purchase
 
 🌱 Promising / New
 
