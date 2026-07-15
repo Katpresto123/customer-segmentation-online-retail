@@ -55,10 +55,10 @@ Who they are: Recent, moderately frequent buyers with solid spend — not top-ti
 Goal: Nurture toward Champions status; reward consistency without over-discounting.
 
 Tactics:
-- Frequency-building incentive: "buy again within 30 days" nudge rather than a broad discount — reward the behavior you want more of, not just the purchase.
-- Bundle or cross-sell recommendations based on first/most recent purchase category, aimed at raising AOV per visit.
-- Progress-based loyalty messaging ("you're 2 purchases away from VIP") if you have or plan a tier system — gives them a visible path to Champions.
-- Segment out of blanket win-back or reactivation email flows — they don't need to be won back, and treating them like a lapsed customer risks training them to expect discounts they don't need to be incentivized with.
+- Frequency-building incentive: "buy again within 30 days" nudge rather than a broad discount — reward the behavior you want more of, not just the purchase
+- Bundle or cross-sell recommendations based on first/most recent purchase category, aimed at raising AOV per visit
+- Progress-based loyalty messaging ("you're 2 purchases away from VIP") if you have or plan a tier system — gives them a visible path to Champions
+- Segment out of blanket win-back or reactivation email flows — they don't need to be won back, and treating them like a lapsed customer risks training them to expect discounts they don't need to be incentivized with
 
 🌱 Promising / New
 Who they are: Recent first-time or early buyers with growth potential.
