@@ -80,7 +80,7 @@ Tactics:
 - Low-cost email only — don't waste paid budget here
 - Consider a sunset flow: unsubscribe the truly gone ones to protect deliverability
 
-🔮 Layer on Predictive Modeling
+🔮 Layer on Predictive Modeling:
 A model that predicts each customer's future value based on their early buying behavior - how often they buy, how long they've been a customer, and what they typically spend, rather than just looking at their purchase history so far. This would flag customers on track to become Champions before they've racked up enough purchases to show up as one in the RFM data, so VIP treatment can start early instead of waiting for the numbers to catch up.
 
 ## Notes
