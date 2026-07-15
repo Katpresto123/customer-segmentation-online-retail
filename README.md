@@ -40,7 +40,8 @@ The notebook includes the following steps:
 ## Marketing Playbook
 Each segment below gets a specific strategy.
 
-🏆 Champions
+🏆 Champions / VIPs
+
 Who they are: Bought recently, buy often, spend the most.
 Goal: Reward loyalty, activate as brand advocates.
 
@@ -50,7 +51,8 @@ Tactics:
 - Referral program — these customers will convert their network
 - Solicit reviews and UGC
 
-⭐ Loyal / Regulars
+⭐ Loyal / Promising
+
 Who they are: Recent, moderately frequent buyers with solid spend — not top-tier, but consistent.
 Goal: Nurture toward Champions status; reward consistency without over-discounting.
 
@@ -61,6 +63,7 @@ Tactics:
 - Segment out of blanket win-back or reactivation email flows
 
 🌱 Promising / New
+
 Who they are: Recent first-time or early buyers with growth potential.
 Goal: Convert into repeat buyers fast — the first 90 days are critical.
 
@@ -68,9 +71,10 @@ Tactics:
 - Onboarding email series focused on product education
 - Second-purchase incentive (small discount or free shipping threshold)
 - Cross-sell based on first purchase category
-- Social proof: reviews, bestsellers in their category
+- Segment out of blanket win-back or reactivation email flows
 
-💤 Hibernating
+💤 Hibernating / Lost
+
 Who they are: Haven't bought in a long time, low frequency, low spend.
 Goal: Either reactivate cheaply or suppress from paid campaigns to protect ROAS.
 
