@@ -45,10 +45,10 @@ Who they are: Bought recently, buy often, spend the most.
 Goal: Reward loyalty, activate as brand advocates.
 
 Tactics:
-Early access to new products / launches
-VIP loyalty tier or exclusive rewards
-Referral program — these customers will convert their network
-Solicit reviews and UGC
+- Early access to new products / launches
+- VIP loyalty tier or exclusive rewards
+- Referral program — these customers will convert their network
+- Solicit reviews and UGC
 
 ⭐ Loyal / Regulars
 Who they are: Recent, moderately frequent buyers with solid spend — not top-tier, but consistent.
@@ -81,9 +81,7 @@ Tactics:
 - Consider a sunset flow: unsubscribe the truly gone ones to protect deliverability
 
 🔮 Layer on Predictive Modeling
-A model that predicts each customer's future value based on their early buying behavior: 
-— How often they buy, how long they've been a customer, and what they typically spend 
-— rather than just looking at their purchase history so far. This would flag customers on track to become Champions before they've racked up enough purchases to show up as one in the RFM data, so VIP treatment can start early instead of waiting for the numbers to catch up.
+A model that predicts each customer's future value based on their early buying behavior - how often they buy, how long they've been a customer, and what they typically spend, rather than just looking at their purchase history so far. This would flag customers on track to become Champions before they've racked up enough purchases to show up as one in the RFM data, so VIP treatment can start early instead of waiting for the numbers to catch up.
 
 ## Notes
 This project was completed for practice and learning purposes to strengthen applied data science skills.
